@@ -20,4 +20,5 @@ A man who likes Math,Physics,Chemistry,Biology,Geography,Technology.
 
 <div>
   <a href="/gcg/">古城馆来一下 （用手机）</a>
+  <a href="/gcg/">古城馆来一下 （用头显（实验阶段））</a>
 </div>
